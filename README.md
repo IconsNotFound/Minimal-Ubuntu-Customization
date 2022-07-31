@@ -3,9 +3,9 @@ Customization for Gnome Desktop in Ubuntu.
 
 
 Go to the the directory where the files are extracted.<br />
-(i.e.: the extracted directory is **/Downloads/Ubuntu-customization-main**)
+(i.e.: the extracted directory is **/Downloads/Minimal-Ubuntu-Customization-1.0.0**)
 ```sh
-cd ~/Downloads/Ubuntu-customization-main/
+cd ~/Downloads/Minimal-Ubuntu-Customization-1.0.0/
 ```
 Make the **Customize.sh** file executable.
 ```sh
